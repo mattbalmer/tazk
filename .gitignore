@@ -1,0 +1,9 @@
+# IDE
+.idea/
+*.iml
+.c9/
+.DS_STORE
+
+# Project
+node_modules/
+dist/

@@ -1,0 +1,27 @@
+{
+    "name": "tazk",
+    "version": "0.1.0",
+    "description": "State management for async functions in javascript/typescript. Inspired by ember-concurrency.",
+    "author": "Matt Balmer <contact@mattbalmer.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattbalmer/tazk"
+    },
+    "keywords": [
+        "task",
+        "async",
+        "await",
+        "promise",
+        "loading",
+        "concurrency"
+    ],
+    "scripts": {
+        "start": "tsc --watch",
+        "compile": "tsc"
+    },
+    "devDependencies": {
+        "@types/node": "^16.10.9",
+        "typescript": "^4.4.4"
+    }
+}
