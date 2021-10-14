@@ -4,6 +4,7 @@
     "description": "State management for async functions in javascript/typescript. Inspired by ember-concurrency.",
     "author": "Matt Balmer <contact@mattbalmer.com>",
     "license": "MIT",
+    "main": "./dist/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/mattbalmer/tazk"
